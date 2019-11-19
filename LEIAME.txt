@@ -1,0 +1,13 @@
+Para execução do programa(em linux), é necessário seguir esses passos.
+01-Mova a pasta onde esta o programa para a area de trabalho.
+02-Abra o terminal.
+03-Execute a linha de comando "cd Área\ de\ Trabalho/".
+03-Execute a linha de comando "cd 'nome da pasta'".
+04-Execute a linha de comando "chmod +x Final.sh".
+05-Abra o gerenciador de arquivos.
+06-CLique em "Editar".
+07-CLique em "Preferências".
+08-Vá para a aba "Comportamento".
+09-Selecione "Executar Arquivos de Textos Executáveis".
+10-Dê um clique duplo no arquivo com extensão "Final.sh".
+
